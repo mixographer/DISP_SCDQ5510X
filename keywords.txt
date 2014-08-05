@@ -1,0 +1,27 @@
+#######################################
+# Syntax Coloring Map For IRremote
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+DispSCDQ554xx	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+write	KEYWORD2
+clear	KEYWORD2
+setBrightness	KEYWORD2
+sleep	KEYWORD2
+wake	KEYWORD2
+
+#
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+SCDQ_SYMBOL	LITERAL1
